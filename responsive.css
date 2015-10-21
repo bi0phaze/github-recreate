@@ -1,0 +1,139 @@
+@media (max-width: 750px) {
+  .wrapper{
+      width: auto;
+      margin: auto;
+    }
+  .section {
+      margin-left:0;
+      margin-top: 0;
+  }
+  .button {
+    display: none;
+  }
+  .midimg {
+    width: 31%;
+    margin-left: 1.5%;
+  }
+  .midimg2 {
+    width: 30%;
+  }
+  .midimg3 {
+    margin-left: 1.5%;
+    width: 65%;
+  }
+  .boards {
+    margin: auto;
+    width: 89.8%;
+    margin-top: 5%;
+  }
+  footer section {
+    width: auto;
+    margin-left 0;
+    text-align: center;
+    margin: auto 4.5%;
+    margin-top: 5%;
+  }
+  .form {
+    width: 90%;
+    margin-left 0;
+    text-align: center;
+    margin: auto 4.5%;
+    margin-top: 5%;
+    height: 1%;
+  }
+  .p3 {
+    width: 90%;
+    margin: auto;
+  }
+  .img-box{
+    margin-left: 10%;
+  }
+  .fixed {
+    display: block;
+    padding-right: 29%;
+    position: fixed;
+  }
+  .fixed1 {
+    margin-top: 10%;
+  }
+  nav {
+
+    position: absolute;
+
+  }
+  }
+
+  @media (max-width: 400px) {
+    .wrapper{
+        width: auto;
+        margin: auto;
+      }
+      .section {
+          margin-left:0;
+          margin-top: 0;
+      }
+      .button {
+        display: none;
+      }
+      .midimg {
+        width: 29%;
+        margin-left: 1.5%;
+      }
+      .midimg2 {
+        width: 28%;
+      }
+      .midimg3 {
+        margin-left: 1.5%;
+        width: 62%;
+      }
+      .boards {
+        margin: auto;
+        width: 79.8%;
+        margin-top: 5%;
+      }
+      footer section {
+        width: auto;
+        margin-left 0;
+        text-align: center;
+        margin: auto 4.5%;
+        margin-top: 59%;
+      }
+      .form {
+        width: 90%;
+        margin-left 0;
+        text-align: center;
+        margin: auto 4.5%;
+        margin-top: 5%;
+        height: 1%;
+      }
+      .p3 {
+        width: 100%;
+        margin: auto;
+
+      }
+      .border li {
+        width: 100%;
+        margin: 0;
+      }
+      #one, #two, #three {
+        width: 100%;
+      }
+      .img-box {
+        width: auto;
+        margin-left: -1%;
+      }
+      .skull {
+        display: none;
+      }
+      section div {
+        width: 99.8%;
+    background-color: white;
+    margin-top: 19px;
+      }
+      section div div {
+        width: auto;
+        margin: auto;
+        margin-left: 7%;
+      }
+
+      }
