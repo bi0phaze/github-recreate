@@ -1,4 +1,37 @@
-[
+var user = {
+  "login": "bi0phaze",
+  "id": 14842970,
+  "avatar_url": "https://avatars.githubusercontent.com/u/14842970?v=3",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bi0phaze",
+  "html_url": "https://github.com/bi0phaze",
+  "followers_url": "https://api.github.com/users/bi0phaze/followers",
+  "following_url": "https://api.github.com/users/bi0phaze/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bi0phaze/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bi0phaze/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bi0phaze/subscriptions",
+  "organizations_url": "https://api.github.com/users/bi0phaze/orgs",
+  "repos_url": "https://api.github.com/users/bi0phaze/repos",
+  "events_url": "https://api.github.com/users/bi0phaze/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bi0phaze/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "Juan Arbelaez",
+  "company": null,
+  "blog": null,
+  "location": null,
+  "email": "djxan2014@gmail.com",
+  "hireable": null,
+  "bio": null,
+  "public_repos": 11,
+  "public_gists": 0,
+  "followers": 2,
+  "following": 6,
+  "created_at": "2015-09-25T20:26:39Z",
+  "updated_at": "2015-10-08T21:38:55Z"
+}
+
+var repos = [
   {
     "id": 43829418,
     "name": "day-1",
@@ -248,6 +281,93 @@
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "HTML",
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master"
+  },
+  {
+    "id": 44653269,
+    "name": "github-recreate",
+    "full_name": "bi0phaze/github-recreate",
+    "owner": {
+      "login": "bi0phaze",
+      "id": 14842970,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "html_url": "https://github.com/bi0phaze",
+      "followers_url": "https://api.github.com/users/bi0phaze/followers",
+      "following_url": "https://api.github.com/users/bi0phaze/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bi0phaze/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bi0phaze/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bi0phaze/subscriptions",
+      "organizations_url": "https://api.github.com/users/bi0phaze/orgs",
+      "repos_url": "https://api.github.com/users/bi0phaze/repos",
+      "events_url": "https://api.github.com/users/bi0phaze/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bi0phaze/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "private": false,
+    "html_url": "https://github.com/bi0phaze/github-recreate",
+    "description": "",
+    "fork": false,
+    "url": "https://api.github.com/repos/bi0phaze/github-recreate",
+    "forks_url": "https://api.github.com/repos/bi0phaze/github-recreate/forks",
+    "keys_url": "https://api.github.com/repos/bi0phaze/github-recreate/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/bi0phaze/github-recreate/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/bi0phaze/github-recreate/teams",
+    "hooks_url": "https://api.github.com/repos/bi0phaze/github-recreate/hooks",
+    "issue_events_url": "https://api.github.com/repos/bi0phaze/github-recreate/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/bi0phaze/github-recreate/events",
+    "assignees_url": "https://api.github.com/repos/bi0phaze/github-recreate/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/bi0phaze/github-recreate/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/bi0phaze/github-recreate/tags",
+    "blobs_url": "https://api.github.com/repos/bi0phaze/github-recreate/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/bi0phaze/github-recreate/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/bi0phaze/github-recreate/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/bi0phaze/github-recreate/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/bi0phaze/github-recreate/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/bi0phaze/github-recreate/languages",
+    "stargazers_url": "https://api.github.com/repos/bi0phaze/github-recreate/stargazers",
+    "contributors_url": "https://api.github.com/repos/bi0phaze/github-recreate/contributors",
+    "subscribers_url": "https://api.github.com/repos/bi0phaze/github-recreate/subscribers",
+    "subscription_url": "https://api.github.com/repos/bi0phaze/github-recreate/subscription",
+    "commits_url": "https://api.github.com/repos/bi0phaze/github-recreate/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/bi0phaze/github-recreate/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/bi0phaze/github-recreate/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/bi0phaze/github-recreate/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/bi0phaze/github-recreate/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/bi0phaze/github-recreate/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/bi0phaze/github-recreate/merges",
+    "archive_url": "https://api.github.com/repos/bi0phaze/github-recreate/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/bi0phaze/github-recreate/downloads",
+    "issues_url": "https://api.github.com/repos/bi0phaze/github-recreate/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/bi0phaze/github-recreate/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/bi0phaze/github-recreate/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/bi0phaze/github-recreate/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/bi0phaze/github-recreate/labels{/name}",
+    "releases_url": "https://api.github.com/repos/bi0phaze/github-recreate/releases{/id}",
+    "created_at": "2015-10-21T04:47:02Z",
+    "updated_at": "2015-10-21T04:49:15Z",
+    "pushed_at": "2015-10-21T04:49:13Z",
+    "git_url": "git://github.com/bi0phaze/github-recreate.git",
+    "ssh_url": "git@github.com:bi0phaze/github-recreate.git",
+    "clone_url": "https://github.com/bi0phaze/github-recreate.git",
+    "svn_url": "https://github.com/bi0phaze/github-recreate",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "JavaScript",
     "has_issues": true,
     "has_downloads": true,
     "has_wiki": true,
@@ -868,5 +988,850 @@
     "open_issues": 0,
     "watchers": 0,
     "default_branch": "master"
+  }
+]
+
+var acttivities = [
+  {
+    "id": "3259225475",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44653269,
+      "name": "bi0phaze/github-recreate",
+      "url": "https://api.github.com/repos/bi0phaze/github-recreate"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-21T04:49:13Z"
+  },
+  {
+    "id": "3259222095",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44653269,
+      "name": "bi0phaze/github-recreate",
+      "url": "https://api.github.com/repos/bi0phaze/github-recreate"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-21T04:47:03Z"
+  },
+  {
+    "id": "3259093409",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44650230,
+      "name": "bi0phaze/map-filter-fp",
+      "url": "https://api.github.com/repos/bi0phaze/map-filter-fp"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-21T03:25:19Z"
+  },
+  {
+    "id": "3259092530",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44650230,
+      "name": "bi0phaze/map-filter-fp",
+      "url": "https://api.github.com/repos/bi0phaze/map-filter-fp"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-21T03:24:49Z"
+  },
+  {
+    "id": "3254596622",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44574052,
+      "name": "bi0phaze/wordsPerMinute",
+      "url": "https://api.github.com/repos/bi0phaze/wordsPerMinute"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-20T01:23:43Z"
+  },
+  {
+    "id": "3254589804",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44574052,
+      "name": "bi0phaze/wordsPerMinute",
+      "url": "https://api.github.com/repos/bi0phaze/wordsPerMinute"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-20T01:20:24Z"
+  },
+  {
+    "id": "3251886449",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44508765,
+      "name": "bi0phaze/js-practice-1",
+      "url": "https://api.github.com/repos/bi0phaze/js-practice-1"
+    },
+    "payload": {
+      "push_id": 832107320,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "ed96d1b64fbbfec988d6a15166ffb1e456242eb7",
+      "before": "e3fd5518c1901fd816ecb626dfd06dd2231d9b53",
+      "commits": [
+        {
+          "sha": "ed96d1b64fbbfec988d6a15166ffb1e456242eb7",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "figuring out problems",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/js-practice-1/commits/ed96d1b64fbbfec988d6a15166ffb1e456242eb7"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-19T12:27:27Z"
+  },
+  {
+    "id": "3250686142",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44508765,
+      "name": "bi0phaze/js-practice-1",
+      "url": "https://api.github.com/repos/bi0phaze/js-practice-1"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-19T03:18:52Z"
+  },
+  {
+    "id": "3250684573",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44508765,
+      "name": "bi0phaze/js-practice-1",
+      "url": "https://api.github.com/repos/bi0phaze/js-practice-1"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-19T03:17:41Z"
+  },
+  {
+    "id": "3240398743",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44289987,
+      "name": "bi0phaze/js-game",
+      "url": "https://api.github.com/repos/bi0phaze/js-game"
+    },
+    "payload": {
+      "push_id": 827722374,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "078d411ae33df6dec8da63e5828b2bb40651427d",
+      "before": "dbdd1b232d6fbee17fff1c38677c7ee78530f07d",
+      "commits": [
+        {
+          "sha": "078d411ae33df6dec8da63e5828b2bb40651427d",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "first commit h.w",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/js-game/commits/078d411ae33df6dec8da63e5828b2bb40651427d"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-15T03:28:16Z"
+  },
+  {
+    "id": "3240343366",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44289987,
+      "name": "bi0phaze/js-game",
+      "url": "https://api.github.com/repos/bi0phaze/js-game"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-15T02:53:17Z"
+  },
+  {
+    "id": "3240338838",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44289987,
+      "name": "bi0phaze/js-game",
+      "url": "https://api.github.com/repos/bi0phaze/js-game"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-15T02:50:27Z"
+  },
+  {
+    "id": "3237548839",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "push_id": 826685630,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "901bea935f5c6a528ce422c51edad742dfb808e1",
+      "before": "69ceae71e21456da97fef4930bd6dfccf875f483",
+      "commits": [
+        {
+          "sha": "901bea935f5c6a528ce422c51edad742dfb808e1",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "compatability with iphone 6 s plus",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/skateboards/commits/901bea935f5c6a528ce422c51edad742dfb808e1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-14T12:32:45Z"
+  },
+  {
+    "id": "3236024090",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "push_id": 826109955,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "69ceae71e21456da97fef4930bd6dfccf875f483",
+      "before": "57031de426ec38f19ad85382a365df6956a8ef4b",
+      "commits": [
+        {
+          "sha": "69ceae71e21456da97fef4930bd6dfccf875f483",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "responisve 750px/400px",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/skateboards/commits/69ceae71e21456da97fef4930bd6dfccf875f483"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-14T01:03:01Z"
+  },
+  {
+    "id": "3231859322",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43917680,
+      "name": "bi0phaze/day3surf-and-paddle",
+      "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle"
+    },
+    "payload": {
+      "push_id": 824577708,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "99124fb384cb3507f51fd3a61bcf75a3643e9f97",
+      "before": "fe18ca10288eda085f0090d0ae66a952058a5dd1",
+      "commits": [
+        {
+          "sha": "99124fb384cb3507f51fd3a61bcf75a3643e9f97",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "mobile",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle/commits/99124fb384cb3507f51fd3a61bcf75a3643e9f97"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-13T01:21:08Z"
+  },
+  {
+    "id": "3228518152",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "push_id": 823315794,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "57031de426ec38f19ad85382a365df6956a8ef4b",
+      "before": "36e2c5a103e69c0bcaa335df09fc6fc3a3beade0",
+      "commits": [
+        {
+          "sha": "57031de426ec38f19ad85382a365df6956a8ef4b",
+          "author": {
+            "email": "djxan2014@gmail.com",
+            "name": "Juan Arbelaez"
+          },
+          "message": "touch up",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/skateboards/commits/57031de426ec38f19ad85382a365df6956a8ef4b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-12T03:21:09Z"
+  },
+  {
+    "id": "3228478504",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "push_id": 823299205,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "36e2c5a103e69c0bcaa335df09fc6fc3a3beade0",
+      "before": "cf15fd0214af615c3b8d1d6f92687b3761906d30",
+      "commits": [
+        {
+          "sha": "36e2c5a103e69c0bcaa335df09fc6fc3a3beade0",
+          "author": {
+            "email": "juanarbelaez@juans-MacBook-Pro.local",
+            "name": "xan"
+          },
+          "message": "added folder pics",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/skateboards/commits/36e2c5a103e69c0bcaa335df09fc6fc3a3beade0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-12T02:45:26Z"
+  },
+  {
+    "id": "3228468368",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-12T02:35:44Z"
+  },
+  {
+    "id": "3228461136",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44079680,
+      "name": "bi0phaze/skateboards",
+      "url": "https://api.github.com/repos/bi0phaze/skateboards"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-12T02:28:38Z"
+  },
+  {
+    "id": "3228441555",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 44078935,
+      "name": "bi0phaze/weekend-assigment",
+      "url": "https://api.github.com/repos/bi0phaze/weekend-assigment"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-12T02:09:33Z"
+  },
+  {
+    "id": "3222354336",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43917680,
+      "name": "bi0phaze/day3surf-and-paddle",
+      "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle"
+    },
+    "payload": {
+      "push_id": 820864442,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "fe18ca10288eda085f0090d0ae66a952058a5dd1",
+      "before": "b38d01f03d8bdbfbc72e93101486f062d4713b3e",
+      "commits": [
+        {
+          "sha": "fe18ca10288eda085f0090d0ae66a952058a5dd1",
+          "author": {
+            "email": "juanarbelaez@juans-MacBook-Pro.local",
+            "name": "xan"
+          },
+          "message": "update on hover links",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle/commits/fe18ca10288eda085f0090d0ae66a952058a5dd1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-09T00:17:50Z"
+  },
+  {
+    "id": "3221955917",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43917680,
+      "name": "bi0phaze/day3surf-and-paddle",
+      "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-08T21:39:11Z"
+  },
+  {
+    "id": "3221954740",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43917680,
+      "name": "bi0phaze/day3surf-and-paddle",
+      "url": "https://api.github.com/repos/bi0phaze/day3surf-and-paddle"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-08T21:38:51Z"
+  },
+  {
+    "id": "3220083492",
+    "type": "PushEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43855804,
+      "name": "bi0phaze/day2",
+      "url": "https://api.github.com/repos/bi0phaze/day2"
+    },
+    "payload": {
+      "push_id": 820040310,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "c17bfee70ffde625d86196b23fd69cf7d1f2b1d0",
+      "before": "09ed4393b66d9173f1da577598833d6f6e2bcc05",
+      "commits": [
+        {
+          "sha": "c17bfee70ffde625d86196b23fd69cf7d1f2b1d0",
+          "author": {
+            "email": "juanarbelaez@juans-MacBook-Pro.local",
+            "name": "xan"
+          },
+          "message": "added triangles",
+          "distinct": true,
+          "url": "https://api.github.com/repos/bi0phaze/day2/commits/c17bfee70ffde625d86196b23fd69cf7d1f2b1d0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-10-08T13:24:03Z"
+  },
+  {
+    "id": "3218491814",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43855804,
+      "name": "bi0phaze/day2",
+      "url": "https://api.github.com/repos/bi0phaze/day2"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "h.w 2.0",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-08T01:50:06Z"
+  },
+  {
+    "id": "3218490206",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43855804,
+      "name": "bi0phaze/day2",
+      "url": "https://api.github.com/repos/bi0phaze/day2"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "h.w 2.0",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-08T01:49:08Z"
+  },
+  {
+    "id": "3216814769",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43829418,
+      "name": "bi0phaze/day-1",
+      "url": "https://api.github.com/repos/bi0phaze/day-1"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-07T16:46:30Z"
+  },
+  {
+    "id": "3216756114",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43829418,
+      "name": "bi0phaze/day-1",
+      "url": "https://api.github.com/repos/bi0phaze/day-1"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-07T16:30:50Z"
+  },
+  {
+    "id": "3216561626",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 14842970,
+      "login": "bi0phaze",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bi0phaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14842970?"
+    },
+    "repo": {
+      "id": 43826515,
+      "name": "bi0phaze/intro",
+      "url": "https://api.github.com/repos/bi0phaze/intro"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-10-07T15:42:57Z"
   }
 ]

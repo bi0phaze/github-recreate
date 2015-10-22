@@ -1,0 +1,125 @@
+
+body {
+  header{
+
+       background-color: #f5f5f5;
+       width: 100%;
+       height: 50px;
+       border-bottom: 2px solid gray;
+
+  }
+}
+
+
+
+footer{
+
+       background-color: #f5f5f5;
+       width: 100%;
+       height: 50px;
+       border-bottom: 2px solid gray;
+
+  }
+
+header {
+  .mega-octicon octicon-mark-github{
+    display: inline-block;
+
+
+  }
+}
+
+#octo {
+  float: left;
+margin-left: 10%;
+}
+
+header{
+  nav{
+    display: inline-block;
+    float: left;
+  }
+}
+
+.nav {
+  display: inline-block;
+  margin: 0 10px;
+  color: black;
+}
+
+.box {
+  border: 1px solid gray;
+  height: 22px;
+  width: 360px;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+}
+
+
+
+
+.mainimg img {
+height: 230px;
+width: 230px;
+border-radius: 2%;
+margin-left: 14%;
+}
+
+.name {
+  margin-left: 14%;
+}
+
+
+
+
+
+section .col-left {
+  height:100%;
+  width: 28%;
+  background-color: #999;
+
+}
+
+.divide {
+  display: inline;
+}
+
+.right-col {
+  margin-left: 10%;
+  font-size: 13px;
+}
+
+.repository {
+
+  float: right;
+margin-right: 47%;
+margin-top: -20%;
+}
+
+
+.language {
+  float: right;
+  position: relative;
+
+}
+
+.blue {
+  color: #3978c2;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+footer {
+  h4{
+    display: inline-block;
+    margin-left: 10%;
+    font-size: 12px;
+  }
+   nav{
+     display: inline-block;
+     font-size: 12px;
+
+   }
+}

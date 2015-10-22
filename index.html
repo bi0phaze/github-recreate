@@ -5,7 +5,7 @@
   <meta charset="utf-8">
  <title>My | Github</title>
  <link rel="stylesheet" type="text/css" href="css/style.css">
- <link rel="stylesheet" type="text/css" href="normalize.css">
+ <link rel="stylesheet" type="text/css" href="bower_components/normalize-css/normalize.css">
  <link rel="stylesheet" type="text/css" href="responsive.css">
  <link rel="stylesheet" href="bower_components/octicons/octicons/octicons.css">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,19 +13,68 @@
 </head>
 
 <body>
+
   <header>
+    <span class="mega-octicon octicon-mark-github" id = "octo"></span>
+    <input type= "text" name = "github" value =" Search GitHub" class="box">
+     <nav>
+       <ul>
+         <a href = "#"><li class= "nav">Pull requests</li></a>
+         <a href = "#"><li class= "nav">Issues</li></a>
+         <a href = "#"><li class= "nav">Gist</li></a>
+       </ul>
+     </nav>
 
+     <nav>
+       <ul>
+         <span class="octicon octicon-bell"></span>
+         <span class="octicon octicon-plus"></span>
+         
+         <li></li>
+       </ul>
+     </nav>
   </header>
-  <section>
 
-  </section>
-  <footer>
-        <span class="octicon octicon-microscope"></span>
-          <span class="octicon octicon-microscope"></span>
-            <span class="octicon octicon-microscope"></span>
-              <span class="octicon octicon-microscope"></span>
+
+      <span class="mainimg"></span>
+      <div>
+      <h2 class="name"></h2>
+      <h3 class="name id= name"></h3>
+      </div>
+      <div style="margin-left: 14%" class="email"></div>
+
+
+
+
+      <div style="display: inline-block" class="repository"></div>
+      <div class="repository2"></div>
+
+
+
+
+  <footer style="margin-top: 50%;">
+
+<h4>&copy; 2015 GitHub.Inc </h4>
+<nav>
+  <ul>
+    <a href = "#"><li class= "nav">Terms</li></a>
+    <a href = "#"><li class= "nav">Privacy</li></a>
+    <a href = "#"><li class= "nav">Security</li></a>
+    <a href = "#"><li class= "nav">Contact</li></a>
+    <a href = "#"><li class= "nav">Help</li></a>
+  </ul>
+</nav>
+
+
+
   </footer>
-
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+  <script type="text/javascript" src="bower_components/underscore/underscore.js"></script>
+<script type="text/javascript" src="github.js"></script>
+<script type="text/javascript" src="shootm3.js"></script>
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="bower_components/underscore/underscore.js"></script>
 </body>
+
 
 </html>
